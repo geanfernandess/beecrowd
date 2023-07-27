@@ -1,7 +1,7 @@
 # beecrowd
 
-O BeeCrowd é uma comunidade global de desenvolvedores comprometidos a evoluir constantemente como estudantes e profissionais. A plataforma oferece desafios de programação e algoritmos para ajudar os membros a aprimorar suas habilidades e conhecimentos em diversas áreas da computação. Com uma comunidade ativa e engajada, os membros podem compartilhar conhecimentos, participar de discussões e colaborar em projetos interessantes.
+BeeCrowd is a global community of developers committed to constantly evolving as students and professionals. The platform offers programming and algorithmic challenges to help members improve their skills and knowledge in various areas of computing. With an active and engaged community, members can share knowledge, participate in discussions and collaborate on interesting projects.
 
-Além dos desafios, o BeeCrowd oferece trilhas de estudo para auxiliar no aprofundamento em tópicos específicos, seja para iniciantes ou níveis mais avançados. Através de estatísticas detalhadas e rankings, os membros podem acompanhar seu progresso e se comparar com outros desenvolvedores. A plataforma também fornece suporte e feedback da comunidade para auxiliar no crescimento e aprimoramento contínuo das habilidades de programação.
+In addition to the challenges, BeeCrowd offers study trails to help deepen specific topics, whether for beginners or more advanced levels. Through detailed statistics and rankings, members can track their progress and compare themselves to other developers. The platform also provides community support and feedback to aid in continuous growth and improvement of programming skills.
 
-Aqui você encontrará os desafios de programação resolvidos por mim. Sinta-se à vontade para explorar os resultados e utilizá-los como referência caso enfrente alguma dificuldade em algum dos problemas. 
+Here you will find the programming challenges I solved. Feel free to explore the results and use them as a reference if you encounter any difficulties with any of the problems.
