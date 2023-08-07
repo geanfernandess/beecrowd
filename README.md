@@ -1,7 +1,7 @@
 # beecrowd
 
-BeeCrowd is a global community of developers committed to constantly evolving as students and professionals. The platform offers programming and algorithmic challenges to help members improve their skills and knowledge in various areas of computing. With an active and engaged community, members can share knowledge, participate in discussions and collaborate on interesting projects.
+BeeCrowd é uma comunidade global de desenvolvedores comprometidos em evoluir constantemente como estudantes e profissionais. A plataforma oferece desafios de programação e algoritmos para ajudar os membros a melhorar suas habilidades e conhecimentos em várias áreas da computação. Com uma comunidade ativa e engajada, os membros podem compartilhar conhecimento, participar de discussões e colaborar em projetos interessantes.
 
-In addition to the challenges, BeeCrowd offers study trails to help deepen specific topics, whether for beginners or more advanced levels. Through detailed statistics and rankings, members can track their progress and compare themselves to other developers. The platform also provides community support and feedback to aid in continuous growth and improvement of programming skills.
+Além dos desafios, o BeeCrowd oferece trilhas de estudo para ajudar no aprofundamento de temas específicos, seja para iniciantes ou níveis mais avançados. Por meio de estatísticas e classificações detalhadas, os membros podem acompanhar seu progresso e comparar-se com outros desenvolvedores. A plataforma também fornece suporte e feedback da comunidade para ajudar no crescimento contínuo e na melhoria das habilidades de programação.
 
-Here you will find the programming challenges I solved. Feel free to explore the results and use them as a reference if you encounter any difficulties with any of the problems.
+Aqui você encontrará os desafios de programação que resolvi. Sinta-se à vontade para explorar os resultados e usá-los como referência caso encontre alguma dificuldade com qualquer um dos problemas.
